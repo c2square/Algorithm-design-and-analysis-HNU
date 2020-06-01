@@ -1,0 +1,22 @@
+5 2
+1 2 5 4 6
+
+10 4
+1 2 5 4 6 3 5 2 6 8   
+
+
+
+cout<<"begin add---------"<<endl;
+    cout<<"currn "<<currdn<<" beagin "<<duan[currdn].b
+    <<" end "<<duan[currdn].e<<endl;
+	
+	
+	
+//    cout<<"---duan--:";
+//    for(int i=currdn;i<=currdn+1;i++)
+//        cout<<"begin "<<duan[i].b<<" vel "<<duan[i].v<<' ';
+//    cout<<endl;
+//    cout<<"----------"<<endl;
+//    cout<<"currn "<<currdn<<" beagin "<<duan[currdn].b
+//    <<" end "<<duan[currdn].e<<" zhongjianzhi "<<zjd
+//    <<" lvel "<<rlvel<<" rvel "<<rrvel<<endl;
